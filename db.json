@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "equipment": "E-0001",
+            "date": 2022,
+            "breakdown": 7
+        },
+        {
+            "id": 2,
+            "equipment": "E-0002",
+            "date": 2022,
+            "breakdown": 5
+        },
+        {
+            "id": 3,
+            "equipment": "E-0003",
+            "date": 2022,
+            "breakdown": 3
+        },
+        {
+            "id": 4,
+            "equipment": "E-0001",
+            "date": 2023,
+            "breakdown": 4
+        },
+        {
+            "id": 5,
+            "equipment": "E-0002",
+            "date": 2023,
+            "breakdown": 6
+        },
+        {
+            "id": 5,
+            "equipment": "E-0003",
+            "date": 2023,
+            "breakdown": 10
+        }
+    ]
+}
