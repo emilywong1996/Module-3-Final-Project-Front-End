@@ -89,6 +89,7 @@ export const InputDataPage = () => {
     };
   }
 
+  // Reset fields after a handleChange for dropdown menu or when the form gets submitted
   const handleResetValues = (e) => {
     Array.from(document.querySelectorAll("input")).forEach(input => (input.value = ""));
     setIdValue(null);
